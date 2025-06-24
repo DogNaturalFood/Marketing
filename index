@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora DOG</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffffff;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2rem;
+            color: #1c1c1c;
+        }
+        main {
+            max-width: 600px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #ffffff;
+            border-top: 1px solid #eaeaea;
+            font-size: 0.9rem;
+        }
+        a {
+            color: #0077cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Calculadora DOG</h1>
+    </header>
+    <main>
+        <p>Em breve, uma calculadora incrível para você e seu pet! 🐶</p>
+    </main>
+    <footer>
+        <p>
+            Siga no Instagram: 
+            <a href="https://www.instagram.com/dognaturalfood_oficial" target="_blank">@dognaturalfood_oficial</a> |
+            <a href="https://www.dognaturalfood.com.br" target="_blank">Site Oficial</a>
+        </p>
+    </footer>
+</body>
+</html>
